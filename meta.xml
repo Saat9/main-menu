@@ -1,0 +1,12 @@
+<meta>
+	<info author="Sat9"/>
+	<script src="client.lua" type="client" />
+	<script src="utils.lua" type="client" />
+	<file src="images/background.png" />
+	<file src="images/continue.png" />
+	<file src="images/exit.png" />
+	<file src="images/reconnect.png" />
+	<file src="images/settings.png" />
+	<file src="images/category.png" />
+	<file src="images/control/main.png" />
+</meta>
